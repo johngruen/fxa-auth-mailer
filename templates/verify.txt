@@ -1,4 +1,4 @@
-{{t "Welcome"}}
+{{t "Welcome!"}}
 
 {{{t "Please activate your account by confirming this email address" }}}
 {{t "Activate:"}} {{{link}}}
